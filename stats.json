@@ -41,8 +41,8 @@
       "path---tags-testing-c115e7c0b5b43182c6c3.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-7318001858be87a07ad7.js",
-      "component---src-layouts-index-jsx-7318001858be87a07ad7.js.map"
+      "component---src-layouts-index-jsx-45217d6f01e8f5e9bc43.js",
+      "component---src-layouts-index-jsx-45217d6f01e8f5e9bc43.js.map"
     ],
     "path---categories-test-3": [
       "path---categories-test-3-6f7cd5ecd9ee33e66afd.js",
@@ -55,6 +55,10 @@
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---введение-в-проект-starter": [
+      "path---введение-в-проект-starter-3e5b0f0194d5872042f9.js",
+      "path---введение-в-проект-starter-3e5b0f0194d5872042f9.js.map"
     ],
     "path---bold-mage": [
       "path---bold-mage-6f62ca85d2d9fd7a1332.js",
@@ -73,8 +77,8 @@
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---tags-gatsby": [
-      "path---tags-gatsby-3d4a599ed3a67b970536.js",
-      "path---tags-gatsby-3d4a599ed3a67b970536.js.map"
+      "path---tags-gatsby-1b6acc5d9e7e0ce79f29.js",
+      "path---tags-gatsby-1b6acc5d9e7e0ce79f29.js.map"
     ],
     "path---categories-another-one": [
       "path---categories-another-one-e97429b62d25120859dd.js",
@@ -85,8 +89,8 @@
       "path---tags-another-one-c57fe9c6134033f2b71a.js.map"
     ],
     "path---index": [
-      "path---index-357b849b9afabf1639ef.js",
-      "path---index-357b849b9afabf1639ef.js.map"
+      "path---index-ccce612f4ffdd5059de0.js",
+      "path---index-ccce612f4ffdd5059de0.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
@@ -111,8 +115,8 @@
       "path---angels-of-mist-fa9a636e462b56ff1c92.js.map"
     ],
     "path---categories-gatsby": [
-      "path---categories-gatsby-ace657b10886e9a07308.js",
-      "path---categories-gatsby-ace657b10886e9a07308.js.map"
+      "path---categories-gatsby-005e2d8bd7ce935a3d78.js",
+      "path---categories-gatsby-005e2d8bd7ce935a3d78.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js",
@@ -127,8 +131,8 @@
       "path---categories-random-c91f88f36c76d78a2778.js.map"
     ],
     "path---tags-material": [
-      "path---tags-material-cfc4806721a8c404316c.js",
-      "path---tags-material-cfc4806721a8c404316c.js.map"
+      "path---tags-material-5577e04fabd4b34dbc9e.js",
+      "path---tags-material-5577e04fabd4b34dbc9e.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -147,9 +151,9 @@
       "path---tags-something-1a50a895a1f2052ea304.js.map"
     ],
     "app": [
-      "app-dd41d3a368b936c79f9c.js",
+      "app-7f257be990830904a14b.js",
       "build-js-styles.css",
-      "app-dd41d3a368b936c79f9c.js.map",
+      "app-7f257be990830904a14b.js.map",
       "build-js-styles.css.map"
     ],
     "path---the-fallen-time": [
@@ -177,12 +181,8 @@
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-starter": [
-      "path---tags-starter-27d73a96107f5b610c3a.js",
-      "path---tags-starter-27d73a96107f5b610c3a.js.map"
-    ],
-    "path---introducing-gatsby-material-starter": [
-      "path---introducing-gatsby-material-starter-ef6140fff00546bcca81.js",
-      "path---introducing-gatsby-material-starter-ef6140fff00546bcca81.js.map"
+      "path---tags-starter-88e3fe8d8dc36b377bb4.js",
+      "path---tags-starter-88e3fe8d8dc36b377bb4.js.map"
     ]
   }
 }
